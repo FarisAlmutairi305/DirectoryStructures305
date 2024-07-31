@@ -64,6 +64,7 @@ The repository includes multiple methods to illustrate different workflow strate
     ├───step 4
     │   └───goto step 5.lnk
     └───step 5
+```
 
 ## method 1 workflow
 
