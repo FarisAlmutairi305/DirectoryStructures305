@@ -65,3 +65,18 @@ The repository includes multiple methods to illustrate different workflow strate
     │   └───goto step 5.lnk
     └───step 5
 
+## method 1 workflow
+
+![image](https://github.com/FarisAlmutairi305/EpicConcepts305/raw/main/directory%20structure%20as%20flowchart/method%201/flowchart.bmp)
+
+## method 2 workflow
+
+![image](https://github.com/FarisAlmutairi305/EpicConcepts305/raw/main/directory%20structure%20as%20flowchart/method%202/flowchart.bmp)
+
+## method 3 workflow
+
+![image](https://github.com/FarisAlmutairi305/EpicConcepts305/raw/main/directory%20structure%20as%20flowchart/method%203/flowchart.bmp)
+
+## method 4 workflow
+
+![image](https://github.com/FarisAlmutairi305/EpicConcepts305/raw/main/directory%20structure%20as%20flowchart/method%204/flowchart.bmp)
