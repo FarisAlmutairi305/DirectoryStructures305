@@ -104,3 +104,4 @@ Workflows
 
 - [Video: Organize Your Files](https://datamanagement.hms.harvard.edu/plan-design/directory-structure)
 - [Blog: Directory Structure](https://dpbestflow.org/file-management/directory-structure)
+- [Research Data Management - File Organization](https://guides.nyu.edu/data_management/file-org)
