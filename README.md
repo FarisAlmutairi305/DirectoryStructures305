@@ -61,7 +61,7 @@ Workflows
 
 ## Workflow 3 (Decision-Based Workflow):
 
-![Flowchart with 1 decision and 1 loop](https://github.com/user-attachments/assets/0c604705-eac3-46a9-a43a-e241af405e37)
+![Flowchart with 1 decision and 1 loop](https://github.com/user-attachments/assets/f67d9494-f131-4855-a21e-8ede25c8a84d)
 
 ```plaintext
 Workflows
