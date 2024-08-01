@@ -1,9 +1,9 @@
 # DirectoryStructures305
 ```mermaid
-%%{ init: { 'themeVariables': { 'fontFamily': 'Arial', 'fontSize': '16px', 'primaryColor': '#000000', 'edgeLabelBackground': '#ffffff', 'tertiaryColor': '#ffffff' }, 'flowchart': { 'curve': 'linear', 'direction': 'LR' } } }%%
-flowchart LR
+%%{ init: { 'themeVariables': { 'fontFamily': 'Arial', 'fontSize': '16px', 'primaryColor': '#000000', 'edgeLabelBackground': '#ffffff', 'tertiaryColor': '#ffffff' }, 'flowchart': { 'curve': 'linear', 'direction': 'TB' } } }%%
+flowchart TB
     subgraph AgileMethodology
-        direction LR
+        direction TB
         style AgileMethodology fill:#ffffff,stroke:#000000,stroke-width:2px
 
         Start([Project Initiation]) --> Planning([Planning])
