@@ -1,6 +1,7 @@
-# EpicConcepts305
+# DirectoryStructures305
 
-Welcome to **EpicConcepts305**! This repository showcases an innovative approach to representing workflows and procedures using directory structures and shortcuts. The concept aims to mirro your workflow by creating folders aligned with the processes and decisions you have in your workflow. The next process is represented by creating a shortcut or `.lnk` file to provide a structured and interactive way to navigate complex processes.
+Welcome to **DirectoryStructures305**! This repository showcases an innovative approach to representing workflows, procedures, and models using directory structures and shortcuts. Folders are designed to align with processes, decisions, and components of models, creating an organized structure that mirrors your workflow or organizational needs. .lnk files represent relationships between different elements, providing a structured and interactive way to navigate and understand complex processes and models.
+
 
 ## Overview
 
