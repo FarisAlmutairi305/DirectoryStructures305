@@ -7,22 +7,21 @@ It's important to recognize that while these directory structures offer a starti
 
 ## Overview
 
-The repository includes multiple methods to illustrate different workflow strategies:
+The repository includes multiple examples to illustrate different workflow and model representation strategies:
 
-- **Method 1**: A straightforward linear workflow from start to finish.
-- **Method 2**: A workflow with conditional branching, guiding the process based on specific conditions.
-- **Method 3**: A cyclical workflow that loops back to the beginning, creating a repeating process.
-- **Method 4**: A decision-based workflow with conditional logic leading to different paths.
+1 - **Simple Linear Workflow**: A straightforward linear workflow from start to finish.
+2 - **Conditional Workflow**: A workflow with conditional branching, guiding the process based on specific conditions.
+3 - **Decision-Based Workflow**: A decision-based workflow with conditional logic leading to different paths.
+4 - **Cyclical Workflow**: A cyclical workflow that loops back to the beginning, creating a repeating process.
 
 
-## Workflow 1, and a directory structure aligned with it: 
+## Workflow 1 (Simple Linear Workflow): 
 
 ![Simple Flowchart](https://github.com/user-attachments/assets/d3e5a61f-947e-4949-8101-fde703d61b37)
 
 ```plaintext
-.
-Flowcharts
-└───Simple Flowchart
+Workflows
+└───Simple Linear Workflow
     ├───start
     │   └───goto process A.lnk
     ├───process A
@@ -36,13 +35,13 @@ Flowcharts
     └───end
 ```
 
-## Workflow 2, and a directory structure aligned with it:
+## Workflow 2 (Conditional Workflow):
 
 ![Flowchart with 1 decision](https://github.com/user-attachments/assets/443f200d-ecf1-4263-8f13-b85a6c36c213)
 
 ```plaintext
-Flowcharts
-└───Flowchart with 1 decision
+Workflows
+└───Conditional Workflow
     ├───start
     │   └───goto process A.lnk
     ├───process A
@@ -60,13 +59,13 @@ Flowcharts
 
 ```
 
-## Workflow 3, and a directory structure aligned with it:
+## Workflow 3 (Decision-Based Workflow):
 
 ![Flowchart with 1 decision and 1 loop](https://github.com/user-attachments/assets/0c604705-eac3-46a9-a43a-e241af405e37)
 
 ```plaintext
-Flowcharts
-└───Flowchart with 1 decision and 1 loop
+Workflows
+└───Decision-Based Workflow
     ├───start
     │   └───goto process A.lnk
     ├───process A
@@ -83,13 +82,13 @@ Flowcharts
     └───end
 ```
 
-## Workflow 4, and a directory structure aligned with it:
+## Workflow 4 (Cyclical Workflow):
 
 ![Endless Flowchart with 1 loop](https://github.com/user-attachments/assets/e68ebfc2-440e-4481-93dd-a4fa6cb415d7)
 
 ```plaintext
-Flowcharts
-└───Endless Flowchart with 1 loop
+Workflows
+└───Cyclical Workflow
     ├───start
     │   └───goto process A.lnk
     ├───process A
