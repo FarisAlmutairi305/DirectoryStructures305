@@ -198,15 +198,15 @@ Workflows
 ```
 # Learn More
 
-1. [Video: Organize Your Files](https://datamanagement.hms.harvard.edu/plan-design/directory-structure)
-2. [Blog: Directory Structure](https://dpbestflow.org/file-management/directory-structure)
-3. [Research Data Management - File Organization](https://guides.nyu.edu/data_management/file-org)
+1. [Directory Structure | Harvard.edu](https://datamanagement.hms.harvard.edu/plan-design/directory-structure)
+2. [Directory Structure | dpbestflow.org | ASMP | Library of Congress](https://dpbestflow.org/file-management/directory-structure)
+3. [Research Data Management - File Organization | NYU](https://guides.nyu.edu/data_management/file-org)
 4. [Directory Structures for researchers, with examples](https://ubco-biology.github.io/Procedures-and-Guidelines/directory-structures.html)
-5. [Example: Directory Structure for a software project](https://www.ibm.com/docs/en/clearcase/10.0.1?topic=components-defining-directory-structure)
-6. [Directory structure based on system architecture](https://www.ibm.com/docs/en/clearcase/10.0.1?topic=project-using-system-architecture-as-starting-point)
-7. [The Guide to Folder Structures: Best Practices and More](https://www.suitefiles.com/guides/folder-structures-guide/)
+5. [Defining the directory structure | IBM](https://www.ibm.com/docs/en/clearcase/10.0.1?topic=components-defining-directory-structure)
+6. [Using the system architecture as the starting point | IBM](https://www.ibm.com/docs/en/clearcase/10.0.1?topic=project-using-system-architecture-as-starting-point)
+7. [The Guide to Folder Structures: Best Practices and More | suitefiles.com](https://www.suitefiles.com/guides/folder-structures-guide/)
 8. [How To Approach Clean Architecture Folder Structure](https://www.milanjovanovic.tech/blog/clean-architecture-folder-structure)
-9. [Clean Architecture: a basic example of folders organization](https://medium.com/thedevproject/clean-architecture-a-basic-example-of-folders-organization-aab07f9eea68)
+9. [Clean Architecture: a basic example of folders organization | medium.com](https://medium.com/thedevproject/clean-architecture-a-basic-example-of-folders-organization-aab07f9eea68)
 10. [Directory structure | Hugo](https://gohugo.io/getting-started/directory-structure/)
 
 # Notes
