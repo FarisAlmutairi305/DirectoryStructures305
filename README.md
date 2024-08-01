@@ -14,77 +14,93 @@ The repository includes multiple methods to illustrate different workflow strate
 - **Method 3**: A cyclical workflow that loops back to the beginning, creating a repeating process.
 - **Method 4**: A decision-based workflow with conditional logic leading to different paths.
 
-## Directory Structure 1, Mirrors some workflows:
+
+## Workflow 1, and a directory structure aligned with it: 
+
+![Simple Flowchart](https://github.com/user-attachments/assets/f8bd0360-35d1-4f55-bcc2-6b21f0401c8f)
 
 ```plaintext
 .
-├───method 1
-│   ├───flowchart.bmp
-│   ├───step 1
-│   │   └───goto step 2.lnk
-│   ├───step 2
-│   │   └───goto step 3.lnk
-│   ├───step 3
-│   │   └───goto step 4.lnk
-│   ├───step 4
-│   │   └───goto step 5.lnk
-│   └───step 5
-├───method 2
-│   ├───flowchart.bmp
-│   ├───step 1
-│   │   └───goto step 2.lnk
-│   ├───step 2
-│   │   ├───goto step 3a if x is true.lnk
-│   │   └───goto step 3b if x is false.lnk
-│   ├───step 3a
-│   │   └───goto step 4.lnk
-│   ├───step 3b
-│   │   └───goto step 4.lnk
-│   ├───step 4
-│   │   └───goto step 5.lnk
-│   └───step 5
-├───method 3
-│   ├───flowchart.bmp
-│   ├───step 1
-│   │   └───goto step 2.lnk
-│   ├───step 2
-│   │   └───goto step 3.lnk
-│   ├───step 3
-│   │   └───goto step 4.lnk
-│   ├───step 4
-│   │   └───goto step 5.lnk
-│   └───step 5
-│       └───goto step 1.lnk
-└───method 4
-    ├───flowchart.bmp
-    ├───step 1
-    │   └───goto step 2.lnk
-    ├───step 2
-    │   ├───goto step 1 if x is false.lnk
-    │   └───goto step 3 if x is true.lnk
-    ├───step 3
-    │   └───goto step 4.lnk
-    ├───step 4
-    │   └───goto step 5.lnk
-    └───step 5
+Flowcharts
+└───Simple Flowchart
+    ├───start
+    │   └───goto process A.lnk
+    ├───process A
+    │   └───goto process B.lnk
+    ├───process B
+    │   └───goto process C.lnk
+    ├───process C
+    │   └───goto process D.lnk
+    ├───process D
+    │   └───goto end.lnk
+    └───end
 ```
 
-## Workflow 1
+## Workflow 2, and a directory structure aligned with it:
 
-![image](https://github.com/FarisAlmutairi305/EpicConcepts305/raw/main/directory%20structure%20as%20flowchart/method%201/flowchart.bmp)
+![Flowchart with 1 decision](https://github.com/user-attachments/assets/ffc492cd-12ec-4f55-af14-503bf4b0dfb0)
 
-## Workflow 2
+```plaintext
+Flowcharts
+└───Flowchart with 1 decision
+    ├───start
+    │   └───goto process A.lnk
+    ├───process A
+    │   └───goto decision X.lnk
+    ├───decision X
+    │   ├───goto process B if x is true.lnk
+    │   └───goto process C if x is false.lnk
+    ├───process B
+    │   └───goto process D.lnk
+    ├───process C
+    │   └───goto end.lnk
+    ├───process D
+    │   └───goto end.lnk
+    └───end
 
-![image](https://github.com/FarisAlmutairi305/EpicConcepts305/raw/main/directory%20structure%20as%20flowchart/method%202/flowchart.bmp)
+```
 
-## Workflow 3
+## Workflow 3, and a directory structure aligned with it:
 
-![image](https://github.com/FarisAlmutairi305/EpicConcepts305/raw/main/directory%20structure%20as%20flowchart/method%203/flowchart.bmp)
+![Flowchart with 1 decision and 1 loop](https://github.com/user-attachments/assets/e61bb457-ca10-48f0-910c-e8f0e7905cc1)
 
-## Workflow 4
+```plaintext
+Flowcharts
+└───Flowchart with 1 decision and 1 loop
+    ├───start
+    │   └───goto process A.lnk
+    ├───process A
+    │   └───goto decision X.lnk
+    ├───decision X
+    │   ├───goto process B if x is true.lnk
+    │   └───goto process C if x is false.lnk
+    ├───process B
+    │   └───goto process D.lnk
+    ├───process C
+    │   └───goto process A.lnk
+    ├───process D
+    │   └───goto end.lnk
+    └───end
+```
 
-![image](https://github.com/FarisAlmutairi305/EpicConcepts305/raw/main/directory%20structure%20as%20flowchart/method%204/flowchart.bmp)
+## Workflow 4, and a directory structure aligned with it:
 
+![Endless Flowchart with 1 loop](https://github.com/user-attachments/assets/080390fe-3bae-4208-b4f4-5efe5d83f6d2)
+
+```plaintext
+Flowcharts
+└───Endless Flowchart with 1 loop
+    ├───start
+    │   └───goto process A.lnk
+    ├───process A
+    │   └───goto process B.lnk
+    ├───process B
+    │   └───goto process C.lnk
+    ├───process C
+    │   └───goto process D.lnk
+    └───process D
+        └───goto process A.lnk
+```
 ## Learn More
 
 [Video: Organize Your Files](https://datamanagement.hms.harvard.edu/plan-design/directory-structure)
