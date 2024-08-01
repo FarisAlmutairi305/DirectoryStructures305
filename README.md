@@ -202,6 +202,8 @@ Workflows
 2. [Blog: Directory Structure](https://dpbestflow.org/file-management/directory-structure)
 3. [Research Data Management - File Organization](https://guides.nyu.edu/data_management/file-org)
 4. [Directory Structures for researchers, with examples](https://ubco-biology.github.io/Procedures-and-Guidelines/directory-structures.html)
+5. [Example: Directory Structure for a software project](https://www.ibm.com/docs/en/clearcase/10.0.1?topic=components-defining-directory-structure)
+6. [Directory structure based on system architecture](https://www.ibm.com/docs/en/clearcase/10.0.1?topic=project-using-system-architecture-as-starting-point) 
 
 # Notes
 - If you are using dark mode you would not see mermaid flowcharts with the colors I want
