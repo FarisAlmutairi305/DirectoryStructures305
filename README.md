@@ -58,6 +58,28 @@ Workflows
 
 ![Flowchart with 1 decision](https://github.com/user-attachments/assets/e6683b9e-2e1f-4c27-a45d-e3c2ae78f0c9)
 
+```mermaid
+flowchart LR
+
+Start(start) --> A[process A]
+A --> X{decision X}
+X --> |yes| B[process B]
+X --> |no| C[process C]
+B --> D[process D]
+C --> End(end)
+D --> End(end)
+
+style Start fill:#E5BEFB
+style End fill:#E5BEFB
+
+style A fill:#FBBEBE
+style B fill:#FBBEBE
+style C fill:#FBBEBE
+style D fill:#FBBEBE
+
+style X fill:#FBBEBE
+```
+
 ```plaintext
 Workflows
 └───Conditional Workflow
@@ -81,6 +103,27 @@ Workflows
 ## Workflow 3 (Decision-Based Workflow):
 
 ![Flowchart with 1 decision and 1 loop](https://github.com/user-attachments/assets/f67d9494-f131-4855-a21e-8ede25c8a84d)
+```mermaid
+flowchart LR
+
+Start(start) --> A[process A]
+A --> X{decision X}
+X --> |yes| B[process B]
+X --> |no| C[process C]
+B --> D[process D]
+C --> A
+D --> End(end)
+
+style Start fill:#E5BEFB
+style End fill:#E5BEFB
+
+style A fill:#FBBEBE
+style B fill:#FBBEBE
+style C fill:#FBBEBE
+style D fill:#FBBEBE
+
+style X fill:#FBBEBE
+```
 
 ```plaintext
 Workflows
@@ -104,6 +147,23 @@ Workflows
 ## Workflow 4 (Cyclical Workflow):
 
 ![Endless Flowchart with 1 loop](https://github.com/user-attachments/assets/c2332b68-2b52-454c-81e4-d020f206aa36)
+
+```mermaid
+flowchart LR
+
+Start(start) --> A[process A]
+A --> B[process B]
+B --> C[process C]
+C --> D[process D]
+D --> A
+
+style Start fill:#E5BEFB
+
+style A fill:#FBBEBE
+style B fill:#FBBEBE
+style C fill:#FBBEBE
+style D fill:#FBBEBE
+```
 
 ```plaintext
 Workflows
