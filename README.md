@@ -21,6 +21,7 @@ The repository includes multiple examples to illustrate different workflow repre
 ![Simple Flowchart](https://github.com/user-attachments/assets/693e2f85-45df-42b6-a3c3-78cd8603f2d0)
 
 ```mermaid
+%%{ init: { 'flowchart': { 'curve': 'linear' } } }%%
 flowchart LR
 
 Start(start) --> A[process A]
@@ -59,6 +60,7 @@ Workflows
 ![Flowchart with 1 decision](https://github.com/user-attachments/assets/e6683b9e-2e1f-4c27-a45d-e3c2ae78f0c9)
 
 ```mermaid
+%%{ init: { 'flowchart': { 'curve': 'linear' } } }%%
 flowchart LR
 
 Start(start) --> A[process A]
@@ -103,7 +105,9 @@ Workflows
 ## Workflow 3 (Decision-Based Workflow):
 
 ![Flowchart with 1 decision and 1 loop](https://github.com/user-attachments/assets/f67d9494-f131-4855-a21e-8ede25c8a84d)
+
 ```mermaid
+%%{ init: { 'flowchart': { 'curve': 'linear' } } }%%
 flowchart LR
 
 Start(start) --> A[process A]
@@ -149,6 +153,7 @@ Workflows
 ![Endless Flowchart with 1 loop](https://github.com/user-attachments/assets/c2332b68-2b52-454c-81e4-d020f206aa36)
 
 ```mermaid
+%%{ init: { 'flowchart': { 'curve': 'linear' } } }%%
 flowchart LR
 
 Start(start) --> A[process A]
