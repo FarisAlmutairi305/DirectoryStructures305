@@ -17,7 +17,7 @@ The repository includes multiple examples to illustrate different workflow and m
 
 ## Workflow 1 (Simple Linear Workflow): 
 
-![Simple Flowchart](https://github.com/user-attachments/assets/d3e5a61f-947e-4949-8101-fde703d61b37)
+![Simple Flowchart](https://github.com/user-attachments/assets/693e2f85-45df-42b6-a3c3-78cd8603f2d0)
 
 ```plaintext
 Workflows
@@ -84,7 +84,7 @@ Workflows
 
 ## Workflow 4 (Cyclical Workflow):
 
-![Endless Flowchart with 1 loop](https://github.com/user-attachments/assets/e68ebfc2-440e-4481-93dd-a4fa6cb415d7)
+![Endless Flowchart with 1 loop](https://github.com/user-attachments/assets/c2332b68-2b52-454c-81e4-d020f206aa36)
 
 ```plaintext
 Workflows
