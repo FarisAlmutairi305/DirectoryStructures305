@@ -20,6 +20,24 @@ The repository includes multiple examples to illustrate different workflow repre
 
 ![Simple Flowchart](https://github.com/user-attachments/assets/693e2f85-45df-42b6-a3c3-78cd8603f2d0)
 
+```mermaid
+flowchart LR
+
+Start(start) --> A[process A]
+A --> B[process B]
+B --> C[process C]
+C --> D[process D]
+D --> End(end)
+
+style Start fill:#E5BEFB
+style End fill:#E5BEFB
+
+style A fill:#FBBEBE
+style B fill:#FBBEBE
+style C fill:#FBBEBE
+style D fill:#FBBEBE
+```
+
 ```plaintext
 Workflows
 └───Simple Linear Workflow
