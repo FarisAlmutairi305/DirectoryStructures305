@@ -1,5 +1,30 @@
 # DirectoryStructures305
+```mermaid
+%%{ init: { 'theme': 'base', 'themeVariables': { 'primaryColor': '#FFFFFF', 'edgeLabelBackground':'#ffffff', 'tertiaryColor': '#ffffff' }, 'flowchart': { 'curve': 'linear', 'direction': 'LR' } } }%%
+flowchart LR
+    Start([Project Initiation]) --> Planning([Planning])
+    Planning --> Backlog([Product Backlog])
+    Backlog --> SprintPlanning([Sprint Planning])
+    SprintPlanning --> Design([Design])
+    Design --> Development([Development])
+    Development --> Testing([Testing])
+    Testing --> Review([Sprint Review])
+    Review --> Retrospective([Sprint Retrospective])
+    Retrospective --> Increment([Product Increment])
+    Increment --> SprintPlanning
 
+    style Start fill:#FFCC99
+    style Planning fill:#FFCC99
+    style Backlog fill:#FFCC99
+    style SprintPlanning fill:#FF9999
+    style Design fill:#99CCFF
+    style Development fill:#99CCFF
+    style Testing fill:#99CCFF
+    style Review fill:#99CCFF
+    style Retrospective fill:#99FF99
+    style Increment fill:#FFFF99
+
+```
 Welcome to **DirectoryStructures305**! This repository showcases an innovative approach to representing workflows, procedures, and models using directory structures and shortcuts. By aligning folders with processes, decisions, and components of models, these structures mirror how we work and what we work on, providing a clear and organized view of complex systems. .lnk files represent relationships between different elements, offering a structured and interactive way to navigate these systems.
 
 It's important to recognize that while these directory structures offer a starting point, they may not fit every individual or organizational need. Customization may be necessary to tailor the structures to your specific requirements, as there is no one-size-fits-all solution. If you need assistance with customizing these directory structures for your needs, feel free to contact me.
