@@ -82,3 +82,7 @@ The repository includes multiple methods to illustrate different workflow strate
 ## method 4 workflow
 
 ![image](https://github.com/FarisAlmutairi305/EpicConcepts305/raw/main/directory%20structure%20as%20flowchart/method%204/flowchart.bmp)
+
+## Learn More
+
+[Video: Organize Your Files](https://datamanagement.hms.harvard.edu/plan-design/directory-structure)
