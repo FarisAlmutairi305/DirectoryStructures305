@@ -37,7 +37,7 @@ Workflows
 
 ## Workflow 2 (Conditional Workflow):
 
-![Flowchart with 1 decision](https://github.com/user-attachments/assets/443f200d-ecf1-4263-8f13-b85a6c36c213)
+![Flowchart with 1 decision](https://github.com/user-attachments/assets/e6683b9e-2e1f-4c27-a45d-e3c2ae78f0c9)
 
 ```plaintext
 Workflows
