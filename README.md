@@ -9,10 +9,10 @@ It's important to recognize that while these directory structures offer a starti
 
 The repository includes multiple examples to illustrate different workflow and model representation strategies:
 
-- **Simple Linear Workflow**: A straightforward linear workflow from start to finish.
-- **Conditional Workflow**: A workflow with conditional branching, guiding the process based on specific conditions.
-- **Decision-Based Workflow**: A decision-based workflow with conditional logic leading to different paths.
-- **Cyclical Workflow**: A cyclical workflow that loops back to the beginning, creating a repeating process.
+1. **Simple Linear Workflow**: A straightforward linear workflow from start to finish.
+2. **Conditional Workflow**: A workflow with conditional branching, guiding the process based on specific conditions.
+3. **Decision-Based Workflow**: A decision-based workflow with conditional logic leading to different paths.
+4. **Cyclical Workflow**: A cyclical workflow that loops back to the beginning, creating a repeating process.
 
 
 ## Workflow 1 (Simple Linear Workflow): 
@@ -102,7 +102,7 @@ Workflows
 ```
 ## Learn More
 
-- [Video: Organize Your Files](https://datamanagement.hms.harvard.edu/plan-design/directory-structure#)
-- [Blog: Directory Structure](https://dpbestflow.org/file-management/directory-structure#)
-- [Research Data Management - File Organization](https://guides.nyu.edu/data_management/file-org#)
-- [Directory Structures for researchers, with examples](https://ubco-biology.github.io/Procedures-and-Guidelines/directory-structures.html#)
+1. [Video: Organize Your Files](https://datamanagement.hms.harvard.edu/plan-design/directory-structure)
+2. [Blog: Directory Structure](https://dpbestflow.org/file-management/directory-structure)
+3. [Research Data Management - File Organization](https://guides.nyu.edu/data_management/file-org)
+4. [Directory Structures for researchers, with examples](https://ubco-biology.github.io/Procedures-and-Guidelines/directory-structures.html)
