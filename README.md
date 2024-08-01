@@ -8,10 +8,12 @@ It's important to recognize that while these directory structures offer a starti
 
 The repository includes multiple examples to illustrate different workflow representation strategies:
 
-1. **Simple Linear Workflow**: A straightforward linear workflow from start to finish.
-2. **Conditional Workflow**: A workflow with conditional branching, guiding the process based on specific conditions.
-3. **Decision-Based Workflow**: A decision-based workflow with conditional logic leading to different paths.
-4. **Cyclical Workflow**: A cyclical workflow that loops back to the beginning, creating a repeating process.
+| Workflow Type | Description |
+| :------------------------- | :---------------------------------------------------------- |
+| **Simple Linear Workflow** | A straightforward linear workflow from start to finish. |
+| **Conditional Workflow** | A workflow with conditional branching, guiding the process based on specific conditions. |
+| **Decision-Based Workflow** | A decision-based workflow with conditional logic leading to different paths. |
+| **Cyclical Workflow** | A cyclical workflow that loops back to the beginning, creating a repeating process. |
 
 
 ## Workflow 1 (Simple Linear Workflow): 
