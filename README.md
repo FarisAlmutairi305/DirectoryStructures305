@@ -102,5 +102,5 @@ Workflows
 ```
 ## Learn More
 
-[Video: Organize Your Files](https://datamanagement.hms.harvard.edu/plan-design/directory-structure)
-[Blog: Directory Structure](https://dpbestflow.org/file-management/directory-structure)
+- [Video: Organize Your Files](https://datamanagement.hms.harvard.edu/plan-design/directory-structure)
+- [Blog: Directory Structure](https://dpbestflow.org/file-management/directory-structure)
