@@ -1,10 +1,10 @@
 # DirectoryStructures305
 ```mermaid
-%%{ init: { 'flowchart': { 'curve': 'linear', 'direction': 'LR' } } }%%
+%%{ init: { 'themeVariables': { 'fontFamily': 'Arial', 'fontSize': '16px', 'primaryColor': '#000000', 'edgeLabelBackground': '#ffffff', 'tertiaryColor': '#ffffff' }, 'flowchart': { 'curve': 'linear', 'direction': 'LR' } } }%%
 flowchart LR
     subgraph AgileMethodology
         direction LR
-        style AgileMethodology fill:#ffffff,stroke:#333,stroke-width:2px
+        style AgileMethodology fill:#ffffff,stroke:#000000,stroke-width:2px
 
         Start([Project Initiation]) --> Planning([Planning])
         Planning --> Backlog([Product Backlog])
@@ -18,17 +18,16 @@ flowchart LR
         Increment --> SprintPlanning
     end
 
-    style Start fill:#FFCC99
-    style Planning fill:#FFCC99
-    style Backlog fill:#FFCC99
-    style SprintPlanning fill:#FF9999
-    style Design fill:#99CCFF
-    style Development fill:#99CCFF
-    style Testing fill:#99CCFF
-    style Review fill:#99CCFF
-    style Retrospective fill:#99FF99
-    style Increment fill:#FFFF99
-
+    style Start fill:#FFCC99,stroke:#000000
+    style Planning fill:#FFCC99,stroke:#000000
+    style Backlog fill:#FFCC99,stroke:#000000
+    style SprintPlanning fill:#FF9999,stroke:#000000
+    style Design fill:#99CCFF,stroke:#000000
+    style Development fill:#99CCFF,stroke:#000000
+    style Testing fill:#99CCFF,stroke:#000000
+    style Review fill:#99CCFF,stroke:#000000
+    style Retrospective fill:#99FF99,stroke:#000000
+    style Increment fill:#FFFF99,stroke:#000000
 
 ```
 Welcome to **DirectoryStructures305**! This repository showcases an innovative approach to representing workflows, procedures, and models using directory structures and shortcuts. By aligning folders with processes, decisions, and components of models, these structures mirror how we work and what we work on, providing a clear and organized view of complex systems. .lnk files represent relationships between different elements, offering a structured and interactive way to navigate these systems.
