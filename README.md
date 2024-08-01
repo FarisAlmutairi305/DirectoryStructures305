@@ -1,17 +1,22 @@
 # DirectoryStructures305
 ```mermaid
-%%{ init: { 'theme': 'base', 'themeVariables': { 'primaryColor': '#FFFFFF', 'edgeLabelBackground':'#ffffff', 'tertiaryColor': '#ffffff' }, 'flowchart': { 'curve': 'linear', 'direction': 'LR' } } }%%
+%%{ init: { 'flowchart': { 'curve': 'linear', 'direction': 'LR' } } }%%
 flowchart LR
-    Start([Project Initiation]) --> Planning([Planning])
-    Planning --> Backlog([Product Backlog])
-    Backlog --> SprintPlanning([Sprint Planning])
-    SprintPlanning --> Design([Design])
-    Design --> Development([Development])
-    Development --> Testing([Testing])
-    Testing --> Review([Sprint Review])
-    Review --> Retrospective([Sprint Retrospective])
-    Retrospective --> Increment([Product Increment])
-    Increment --> SprintPlanning
+    subgraph AgileMethodology
+        direction LR
+        style AgileMethodology fill:#ffffff,stroke:#333,stroke-width:2px
+
+        Start([Project Initiation]) --> Planning([Planning])
+        Planning --> Backlog([Product Backlog])
+        Backlog --> SprintPlanning([Sprint Planning])
+        SprintPlanning --> Design([Design])
+        Design --> Development([Development])
+        Development --> Testing([Testing])
+        Testing --> Review([Sprint Review])
+        Review --> Retrospective([Sprint Retrospective])
+        Retrospective --> Increment([Product Increment])
+        Increment --> SprintPlanning
+    end
 
     style Start fill:#FFCC99
     style Planning fill:#FFCC99
@@ -23,6 +28,7 @@ flowchart LR
     style Review fill:#99CCFF
     style Retrospective fill:#99FF99
     style Increment fill:#FFFF99
+
 
 ```
 Welcome to **DirectoryStructures305**! This repository showcases an innovative approach to representing workflows, procedures, and models using directory structures and shortcuts. By aligning folders with processes, decisions, and components of models, these structures mirror how we work and what we work on, providing a clear and organized view of complex systems. .lnk files represent relationships between different elements, offering a structured and interactive way to navigate these systems.
