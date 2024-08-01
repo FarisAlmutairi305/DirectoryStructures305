@@ -18,8 +18,10 @@ The repository includes multiple examples to illustrate different workflow repre
 
 ## Workflow 1 (Simple Linear Workflow): 
 
+**Flowchart:**
 ![Simple Flowchart](https://github.com/user-attachments/assets/693e2f85-45df-42b6-a3c3-78cd8603f2d0)
 
+**Flowchart by Mermaid:**
 ```mermaid
 %%{ init: { 'flowchart': { 'curve': 'linear' } } }%%
 flowchart LR
@@ -39,6 +41,7 @@ style C fill:#FBBEBE
 style D fill:#FBBEBE
 ```
 
+**Directory Structure based on the flowchart:**
 ```plaintext
 Workflows
 └───Simple Linear Workflow
@@ -57,8 +60,10 @@ Workflows
 
 ## Workflow 2 (Conditional Workflow):
 
+**Flowchart:**
 ![Flowchart with 1 decision](https://github.com/user-attachments/assets/e6683b9e-2e1f-4c27-a45d-e3c2ae78f0c9)
 
+**Flowchart by Mermaid:**
 ```mermaid
 %%{ init: { 'flowchart': { 'curve': 'linear' } } }%%
 flowchart LR
@@ -82,6 +87,7 @@ style D fill:#FBBEBE
 style X fill:#FBBEBE
 ```
 
+**Directory Structure based on the flowchart:**
 ```plaintext
 Workflows
 └───Conditional Workflow
@@ -104,8 +110,10 @@ Workflows
 
 ## Workflow 3 (Decision-Based Workflow):
 
+**Flowchart:**
 ![Flowchart with 1 decision and 1 loop](https://github.com/user-attachments/assets/f67d9494-f131-4855-a21e-8ede25c8a84d)
 
+**Flowchart by Mermaid:**
 ```mermaid
 %%{ init: { 'flowchart': { 'curve': 'linear' } } }%%
 flowchart LR
@@ -129,6 +137,7 @@ style D fill:#FBBEBE
 style X fill:#FBBEBE
 ```
 
+**Directory Structure based on the flowchart:**
 ```plaintext
 Workflows
 └───Decision-Based Workflow
@@ -150,8 +159,10 @@ Workflows
 
 ## Workflow 4 (Cyclical Workflow):
 
+**Flowchart:**
 ![Endless Flowchart with 1 loop](https://github.com/user-attachments/assets/c2332b68-2b52-454c-81e4-d020f206aa36)
 
+**Flowchart by Mermaid:**
 ```mermaid
 %%{ init: { 'flowchart': { 'curve': 'linear' } } }%%
 flowchart LR
@@ -170,6 +181,7 @@ style C fill:#FBBEBE
 style D fill:#FBBEBE
 ```
 
+**Directory Structure based on the flowchart:**
 ```plaintext
 Workflows
 └───Cyclical Workflow
