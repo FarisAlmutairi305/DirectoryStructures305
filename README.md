@@ -17,7 +17,7 @@ The repository includes multiple methods to illustrate different workflow strate
 
 ## Workflow 1, and a directory structure aligned with it: 
 
-![Simple Flowchart](https://github.com/user-attachments/assets/f8bd0360-35d1-4f55-bcc2-6b21f0401c8f)
+![Simple Flowchart](https://github.com/user-attachments/assets/d3e5a61f-947e-4949-8101-fde703d61b37)
 
 ```plaintext
 .
@@ -38,7 +38,7 @@ Flowcharts
 
 ## Workflow 2, and a directory structure aligned with it:
 
-![Flowchart with 1 decision](https://github.com/user-attachments/assets/ffc492cd-12ec-4f55-af14-503bf4b0dfb0)
+![Flowchart with 1 decision](https://github.com/user-attachments/assets/443f200d-ecf1-4263-8f13-b85a6c36c213)
 
 ```plaintext
 Flowcharts
@@ -62,7 +62,7 @@ Flowcharts
 
 ## Workflow 3, and a directory structure aligned with it:
 
-![Flowchart with 1 decision and 1 loop](https://github.com/user-attachments/assets/e61bb457-ca10-48f0-910c-e8f0e7905cc1)
+![Flowchart with 1 decision and 1 loop](https://github.com/user-attachments/assets/0c604705-eac3-46a9-a43a-e241af405e37)
 
 ```plaintext
 Flowcharts
@@ -85,7 +85,7 @@ Flowcharts
 
 ## Workflow 4, and a directory structure aligned with it:
 
-![Endless Flowchart with 1 loop](https://github.com/user-attachments/assets/080390fe-3bae-4208-b4f4-5efe5d83f6d2)
+![Endless Flowchart with 1 loop](https://github.com/user-attachments/assets/e68ebfc2-440e-4481-93dd-a4fa6cb415d7)
 
 ```plaintext
 Flowcharts
