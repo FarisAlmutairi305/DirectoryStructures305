@@ -4,10 +4,9 @@ Welcome to **DirectoryStructures305**! This repository showcases an innovative a
 
 It's important to recognize that while these directory structures offer a starting point, they may not fit every individual or organizational need. Customization may be necessary to tailor the structures to your specific requirements, as there is no one-size-fits-all solution. If you need assistance with customizing these directory structures for your needs, feel free to contact me.
 
+# Workflows Overview
 
-## Overview
-
-The repository includes multiple examples to illustrate different workflow and model representation strategies:
+The repository includes multiple examples to illustrate different workflow representation strategies:
 
 1. **Simple Linear Workflow**: A straightforward linear workflow from start to finish.
 2. **Conditional Workflow**: A workflow with conditional branching, guiding the process based on specific conditions.
@@ -100,7 +99,7 @@ Workflows
     └───process D
         └───goto process A.lnk
 ```
-## Learn More
+# Learn More
 
 1. [Video: Organize Your Files](https://datamanagement.hms.harvard.edu/plan-design/directory-structure)
 2. [Blog: Directory Structure](https://dpbestflow.org/file-management/directory-structure)
