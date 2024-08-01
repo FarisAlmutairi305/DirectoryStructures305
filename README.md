@@ -204,10 +204,10 @@ Workflows
 4. [Directory Structures for researchers, with examples](https://ubco-biology.github.io/Procedures-and-Guidelines/directory-structures.html)
 5. [Example: Directory Structure for a software project](https://www.ibm.com/docs/en/clearcase/10.0.1?topic=components-defining-directory-structure)
 6. [Directory structure based on system architecture](https://www.ibm.com/docs/en/clearcase/10.0.1?topic=project-using-system-architecture-as-starting-point)
-7. (The Guide to Folder Structures: Best Practices and More)[https://www.suitefiles.com/guides/folder-structures-guide/]
-8. (How To Approach Clean Architecture Folder Structure)[https://www.milanjovanovic.tech/blog/clean-architecture-folder-structure]
-9. (Clean Architecture: a basic example of folders organization)[https://medium.com/thedevproject/clean-architecture-a-basic-example-of-folders-organization-aab07f9eea68]
-10. (Directory structure | Hugo)[https://gohugo.io/getting-started/directory-structure/]
+7. [The Guide to Folder Structures: Best Practices and More](https://www.suitefiles.com/guides/folder-structures-guide/)
+8. [How To Approach Clean Architecture Folder Structure](https://www.milanjovanovic.tech/blog/clean-architecture-folder-structure)
+9. [Clean Architecture: a basic example of folders organization](https://medium.com/thedevproject/clean-architecture-a-basic-example-of-folders-organization-aab07f9eea68)
+10. [Directory structure | Hugo](https://gohugo.io/getting-started/directory-structure/)
 
 # Notes
 - If you are using dark mode you would not see mermaid flowcharts with the colors I want
